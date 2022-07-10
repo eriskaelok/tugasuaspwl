@@ -86,7 +86,7 @@
 			<!-- Brand Logo -->
 			<a href="index.php" class="brand-link">
 				<img src="dist/img/logo.png" alt="AdminLTE Logo" class="brand-image" style="opacity: .8">
-				<span class="brand-text">DATA PEGAWAI</span>
+				<span class="brand-text">DATA PEGAWAI UNMER</span>
 			</a>
 
 			<!-- Sidebar -->
