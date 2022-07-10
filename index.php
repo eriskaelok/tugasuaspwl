@@ -27,7 +27,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>PEGAWAI KAMPUS </title>
+	<title> PEGAWAI KAMPUS UNMER </title>
 	<link rel="icon" href="dist/img/logo.png">
 	<!-- Tell the browser to be responsive to screen width -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -86,7 +86,7 @@
 			<!-- Brand Logo -->
 			<a href="index.php" class="brand-link">
 				<img src="dist/img/logo.png" alt="AdminLTE Logo" class="brand-image" style="opacity: .8">
-				<span class="brand-text">DATA PEGAWAI UNMER</span>
+				<span class="brand-text">DATA PEGAWAI </span>
 			</a>
 
 			<!-- Sidebar -->
